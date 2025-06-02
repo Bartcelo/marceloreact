@@ -1,5 +1,5 @@
 import RomaflaSite from '../assets/romafla.png';
-import EmprestimoLovros from '../assets/emprestimolivros.png';
+import EmprestimoLovros from '../assets/romafla.png';
 
 
 
