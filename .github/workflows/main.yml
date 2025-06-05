@@ -22,7 +22,7 @@ jobs:
         with:
           server: digitalbos.com.br
           username: ${{ secrets.USERNAME }}
-          password: 1532@RAIane
+          password: ${{ secrets.PASSWORD }}
           local-dir: dist/
-          server-dir: marcelo/
+          server-dir: ${{ secrets.SERVER_DIR }}
     
